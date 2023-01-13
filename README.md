@@ -51,8 +51,8 @@
 
 >[CSS DINER](https://flukeout.github.io/#) é um jogo pra praticar seletores
 
-></br>
+</br>
 
 >[Clip path](https://bennettfeely.com/clippy/) interativo
 
-></br>
+</br>
