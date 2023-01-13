@@ -25,7 +25,7 @@
 
 </br>
 
->[CSS minifier]([CSS minifier](https://www.toptal.com/developers/cssminifier)) para minificar seu codigo CSS
+>[CSS minifier](https://www.toptal.com/developers/cssminifier) para minificar seu codigo CSS
 
 </br>
 
