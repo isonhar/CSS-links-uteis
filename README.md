@@ -9,22 +9,6 @@
 
 </br>
 
->[Icon monstr](https://iconmonstr.com/) Tem icones png e svg de icones uteis para download
-
-</br>
-
->[Color Hunt](https://colorhunt.co/) Ajudar caso esteja sem ideia para uma paleta de cor
-
-</br>
-
->[Storyset](https://storyset.com/) Possui muitas imagens svg animadas
-
-</br>
-
->[Excali draw](https://excalidraw.com/) Tem uma interface simples q pode te ajudar a pensar layouts
-
-</br>
-
 >[Fancy border radius](https://9elements.github.io/fancy-border-radius/) Para criar bordas diferenciadas
 
 </br>
