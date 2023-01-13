@@ -25,8 +25,12 @@
 
 </br>
 
+>[CSS minifier]([CSS minifier](https://www.toptal.com/developers/cssminifier)) para minificar seu codigo CSS
+
+</br>
+
 >[Magic animations](https://www.minimamente.com/project/magic/) Possui varias animações legais
->
+
 </br>
 
 >[CSS GG](https://css.gg/app) Tem icones feitos puramente com CSS
@@ -39,4 +43,4 @@
 
 >[Clip path](https://bennettfeely.com/clippy/) interativo
 
-</br>
+
